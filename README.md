@@ -1,5 +1,5 @@
 # Pixel Chump
-![Screenshot 2024-12-19 105156](https://github.com/user-attachments/assets/35798b97-ede2-4136-8fa0-c6ccb8fa885b)
+<img src="https://github.com/user-attachments/assets/35798b97-ede2-4136-8fa0-c6ccb8fa885b" alt="Alt Text" width="590" height="520">
 
 A small, simple, and garbage pixel art app. 
 
