@@ -12,3 +12,5 @@ A small, simple, and garbage pixel art app.
 - Unusable selection & move tool
 - Flip vertically & horizontally
 - Export as PNG
+
+Inspired by (but much worse than) [GrudgePixel](https://github.com/datavorous/GrudgePixel).
